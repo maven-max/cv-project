@@ -1,5 +1,14 @@
+.body {
+  background-image: url("https://lh3.googleusercontent.com/oB263Yu4QGr9tlWdJphoBetH7lxTssdbZqI0ZRgXlRyUcbjKyy4ge1JLq_7ZBRCHsW4_bQLvaZfcv5xwY2IdBcgd_BFDMdpmJNYK8gQsA_1wVjpG2yi6qSBBdb-BPG8bclLH8bQD=w2400");
+}
 .App {
+  margin: auto;
   text-align: center;
+  max-width: 55%;
+  padding: 5% 1%;
+  background-color: white;
+  border-radius: 10px;
+  z-index: 99;
 }
 
 .App-logo {

@@ -1,10 +1,14 @@
 function EduExp() {
   return (
-    <div>
-      <h2>Educational Experience</h2>
-      <p>Kwame Nkrumah University of Science and Technology</p>
-      <p>BSc Computer Engineering</p>
-      <p>2018 - 2022</p>
+    <div className="sect-container">
+      <h2 className="sect-header">Educational Experience</h2>
+      <p className="sect-body">
+        Kwame Nkrumah University of Science and Technology
+        <br />
+        BSc Computer Engineering
+        <br />
+        2018 - 2022
+      </p>
     </div>
   );
 }

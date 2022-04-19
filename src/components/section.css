@@ -1,0 +1,15 @@
+.sect-container {
+  display: flex;
+  text-align: left;
+  background-color: azure;
+  margin: 2%;
+  padding: 2%;
+  border-radius: 10px;
+}
+.sect-header {
+  font-size: large;
+  width: 40%;
+}
+.sect-body {
+  width: 60%;
+}
