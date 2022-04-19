@@ -10,7 +10,7 @@ function GenInfo() {
           Email:{" "}
           <a href="mailto:emmanuelegote@gmail.com">emmanuelegote@gmail.com</a>
           <br />
-          Phone: <a href="tel:0504744346">0504744346</a>
+          Phone: <a href="tel:0123456789">0543216789</a>
         </p>
         <p>
           Result-driven student pursuing Computer Engineering degree with
